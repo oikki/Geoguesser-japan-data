@@ -1,1 +1,2 @@
-upload_test.jpg
+https://raw.githubusercontent.com/oikki/Geoguesser-japan-data/main/panoramas/upload_test_1.jpg;data;1.434234;25.3453453
+https://raw.githubusercontent.com/oikki/Geoguesser-japan-data/main/panoramas/upload_test_2.jpg;data;1.346536;143.55345
